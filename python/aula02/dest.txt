@@ -1,0 +1,10 @@
+Crie um programa que simule uma agenda eletrônica com as operações de inserção 
+e busca.
+
+Operações a serem implementadas:
+
+    Criar pessoa
+    Recuperar pessoa por nome
+    Deletar pessoa por CPF
+
+Se precisarmos salvar mais que o nome (nome, cpf e telefone) como representar?    
